@@ -7,6 +7,8 @@ B. `<js>`
 C. `<dom>`  
 D. `<style>`
 
+Answer : A
+
 ---
 
 2.  What is correct JavaScript syntax to change the content of the HTML element below?
@@ -18,6 +20,8 @@ B. `#content.innerHTML = “Clarusway”;`
 C. `document.getElement(“h1”).innerHTML = “Clarusway”;`  
 D. `document.getElementById(“content”).innerHTML = “Clarusway”;`
 
+Answer : D
+
 ---
 
 3.  What is the correct syntax for referring to an external script called “script.js”?
@@ -26,6 +30,8 @@ A. `<script name=”script.js”>`
 B. `<script href=”script.js”>`  
 C. `<a href=”script.js”>`  
 D. `<script src=”script.js”>`
+
+Answer : D
 
 ---
 
@@ -36,6 +42,8 @@ B. `function = newFunc()`
 C. `def newFunc()`  
 D. `def : newFunc()`
 
+Answer : A
+
 ---
 
 5.  What is correct syntax of for loop in JavaScript?
@@ -44,6 +52,8 @@ A. `for(i<=5; I++)`
 B. `for i = 0 to 5`  
 C. `for(i = 0; i <= 5 ; i++)`  
 D. `for(var i=0; i <= 5)`
+
+Answer : C
 
 ---
 
@@ -54,6 +64,8 @@ B. `// ....`
 C. `<!-- .... --> `  
 D. `" .... "`
 
+Answer : B
+
 ---
 
 7. What is correct way to write a JavaScript Array?
@@ -62,6 +74,8 @@ A. `let animals = [1 : "dog" , 2 : "cat" , 3 : "bird"]`
 B. `let animals = "dog" , "cat" , "bird"`  
 C. `let animals = (1 : "dog", 2 : "cat", 3 : "bird")`  
 D. `let animals = ["dog", "cat", "bird"]`
+
+Answer : D
 
 ---
 
@@ -72,6 +86,8 @@ B. `Math.rnd(3.14)`
 C. `Round(3.14)`  
 D. `Round.Math(3.14)`
 
+Answer : A
+
 ---
 
 9.  Which event occurs when the user clicks on an HTML element?
@@ -80,6 +96,8 @@ A. `onchange`
 B. `onmouseclick`  
 C. `onclick`  
 D. `onmouseover`
+
+Answer : C
 
 ---
 
@@ -90,6 +108,8 @@ B. `fullStack.manager = "elvin"`
 C. `manager("fullStack") = "elvin"`  
 D. `fullStack_manager : "nec"`
 
+Answer : B
+
 ---
 
 11. You create an object in a variable named '`clarusway`'. Which line of code would add a new property '`fourth_path`' to the object?
@@ -98,6 +118,8 @@ A. `clarusway.push({fourth-path : "Full_Stack"})`
 B. `clarusway.fourth_path = "Full_Stack"`  
 C. `fourth_path(clarusway) : "Full_Stack"`  
 D. `let clarusway.clarusway("Full_Stack")`
+
+Answer : B
 
 ---
 
@@ -119,6 +141,8 @@ B. `string`
 C. `undefined`  
 D. `ReferenceError`
 
+Answer : D
+
 ---
 
 13. Removes the FIRST element from an array and returns it.
@@ -128,12 +152,16 @@ B. `shift`
 C. `slice`  
 D. `split`
 
+Answer : B
+
 ---
 
 14. We should avoid an nested loops.
 
 A. True  
 B. False
+
+Answer : A
 
 ---
 
@@ -150,6 +178,8 @@ A. `[16, 81, 256, 625]`
 B. `[25, 16, 9, 4]`  
 C. `[2, 3, 4, 5]`  
 D. `[4, 9, 16, 25]`
+
+Answer : C
 
 ---
 
@@ -168,6 +198,8 @@ B. `ReferenceError`
 C. `["Nan", "NaN", "NaN"]`  
 D. `["az", "bz", "cz"]`
 
+Answer : D
+
 ---
 
 17. What will be the output when the following code is executed?
@@ -179,6 +211,8 @@ B. `false false`
 C. `true true`  
 D. `false true`
 
+Answer : A
+
 ---
 
 18. What does React Native rely on for style?
@@ -187,6 +221,8 @@ A. CSS
 B. HTML  
 C. JS  
 D. ReactJS
+
+Answer : C
 
 ---
 
@@ -197,6 +233,8 @@ B. `Image`
 C. `UIView`  
 D. `TextInput`
 
+Answer : C
+
 ---
 
 20. Which one provides an abstraction layer similar to CSS stylesheet?
@@ -205,6 +243,8 @@ A. `Styles`
 B. `StyleSheet`  
 C. `Flex`  
 D. `View`
+
+Answer : B
 
 ---
 
@@ -215,6 +255,8 @@ B. `SafeAreaView`
 C. `TextInput`  
 D. `View`
 
+Answer : D
+
 ---
 
 22. How can you create a new React Native project?
@@ -223,6 +265,8 @@ A. `npx create-react-app new-project`
 B. `npx react-native init new-project`  
 C. `npm create-react-native-app new-project`  
 C. `expo run new-project`
+
+Answer : B
 
 ---
 
@@ -233,6 +277,8 @@ B. `src/App.js`
 C. `index.js`  
 D. `src/index.js`
 
+Answer : C
+
 ---
 
 24. How can we import components?
@@ -241,6 +287,8 @@ A. `import ComponentName;`
 B. `from "./src/ComponentName" import ComponentName;`  
 C. `export default ComponentName;`  
 D. `import ComponentName from "./src/ComponentName";`
+
+Answer : D
 
 ---
 
@@ -251,6 +299,8 @@ B. `export default ComponentName;`
 C. `export {ComponentName};`  
 D. `export {ComponentName, OtherComponent};`
 
+Answer : A
+
 ---
 
 26. Which one is true about styling?
@@ -259,6 +309,8 @@ A. `<Text style={ fontSize : 30}>Clarusway</Text>`
 B. `<View style={{ backgroundColor : "wheat"}}></View>`  
 C. `<SafeAreaView style={{styles.container}}></SafeAreaView>`  
 D. `<Image style="width : 100px" />`
+
+Answer : B
 
 ---
 
@@ -269,6 +321,8 @@ B. `import React from "react";`
 C. `import ComponentName from "./ComponentName";`  
 D. `export default App.js;`
 
+Answer : B
+
 ---
 
 28. Which one is React Native official website?
@@ -277,6 +331,8 @@ A. `https://reactjs.org/`
 B. `https://reactnative.com/`  
 C. `https://reactnative.org/`  
 D. `https://reactnative.dev/`
+
+Answer : D
 
 ---
 
@@ -287,11 +343,15 @@ B. in parenthesis
 C. in curly braces  
 D. in double curly braces
 
+Answer : C
+
 ---
 
 30. You can work on Android and IOS emulator in Windows.
 
 A. True  
 B. False
+
+Answer : B
 
 **<p align="center">&#9786; Thanks for Attending &#9997;</p>**
